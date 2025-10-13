@@ -15,4 +15,4 @@ class Me
 };
 ```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadaboop&layout=compact&hide=CMake,Makefile&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadaboop&layout=compact&hide=CMake,Makefile&theme=tokyonight)
